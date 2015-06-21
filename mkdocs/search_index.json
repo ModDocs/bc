@@ -2,12 +2,12 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Buildcraft", 
+            "text": "Buildcraft\n\n\nWelcome to the documentation of Buildcraft.", 
             "title": "Home"
         }, 
         {
             "location": "/#buildcraft", 
-            "text": "", 
+            "text": "Welcome to the documentation of Buildcraft.", 
             "title": "Buildcraft"
         }
     ]
